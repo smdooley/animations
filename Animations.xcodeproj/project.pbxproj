@@ -11,6 +11,7 @@
 		E4B880EF2CDD0F5E00270BF9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4B880EE2CDD0F5E00270BF9 /* ContentView.swift */; };
 		E4B880F12CDD0F6000270BF9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4B880F02CDD0F6000270BF9 /* Assets.xcassets */; };
 		E4B880F42CDD0F6000270BF9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4B880F32CDD0F6000270BF9 /* Preview Assets.xcassets */; };
+		E4B880FB2CDD112D00270BF9 /* ImplicitAnimationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4B880FA2CDD112D00270BF9 /* ImplicitAnimationsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		E4B880EE2CDD0F5E00270BF9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E4B880F02CDD0F6000270BF9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E4B880F32CDD0F6000270BF9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E4B880FA2CDD112D00270BF9 /* ImplicitAnimationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImplicitAnimationsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				E4B880EE2CDD0F5E00270BF9 /* ContentView.swift */,
 				E4B880F02CDD0F6000270BF9 /* Assets.xcassets */,
 				E4B880F22CDD0F6000270BF9 /* Preview Content */,
+				E4B880FA2CDD112D00270BF9 /* ImplicitAnimationsView.swift */,
 			);
 			path = Animations;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			files = (
 				E4B880EF2CDD0F5E00270BF9 /* ContentView.swift in Sources */,
 				E4B880ED2CDD0F5E00270BF9 /* AnimationsApp.swift in Sources */,
+				E4B880FB2CDD112D00270BF9 /* ImplicitAnimationsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
