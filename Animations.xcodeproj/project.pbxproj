@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		E41F14C12CE21C3E008EEE75 /* ControllingAnimationStackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E41F14C02CE21C3E008EEE75 /* ControllingAnimationStackView.swift */; };
+		E41F14C32CE21E6E008EEE75 /* AnimatingGesturesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E41F14C22CE21E6E008EEE75 /* AnimatingGesturesView.swift */; };
+		E41F14C52CE21FCF008EEE75 /* AnimatedLettersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E41F14C42CE21FCF008EEE75 /* AnimatedLettersView.swift */; };
 		E4B880ED2CDD0F5E00270BF9 /* AnimationsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4B880EC2CDD0F5E00270BF9 /* AnimationsApp.swift */; };
 		E4B880EF2CDD0F5E00270BF9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4B880EE2CDD0F5E00270BF9 /* ContentView.swift */; };
 		E4B880F12CDD0F6000270BF9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4B880F02CDD0F6000270BF9 /* Assets.xcassets */; };
@@ -20,6 +22,8 @@
 
 /* Begin PBXFileReference section */
 		E41F14C02CE21C3E008EEE75 /* ControllingAnimationStackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControllingAnimationStackView.swift; sourceTree = "<group>"; };
+		E41F14C22CE21E6E008EEE75 /* AnimatingGesturesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatingGesturesView.swift; sourceTree = "<group>"; };
+		E41F14C42CE21FCF008EEE75 /* AnimatedLettersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatedLettersView.swift; sourceTree = "<group>"; };
 		E4B880E92CDD0F5E00270BF9 /* Animations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Animations.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4B880EC2CDD0F5E00270BF9 /* AnimationsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationsApp.swift; sourceTree = "<group>"; };
 		E4B880EE2CDD0F5E00270BF9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -70,6 +74,8 @@
 				E4B880FE2CDD161E00270BF9 /* AnimatingBindingsView.swift */,
 				E4B881002CDD173100270BF9 /* ExplicitAnimationsView.swift */,
 				E41F14C02CE21C3E008EEE75 /* ControllingAnimationStackView.swift */,
+				E41F14C22CE21E6E008EEE75 /* AnimatingGesturesView.swift */,
+				E41F14C42CE21FCF008EEE75 /* AnimatedLettersView.swift */,
 			);
 			path = Animations;
 			sourceTree = "<group>";
@@ -153,8 +159,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				E4B880FD2CDD139A00270BF9 /* CustomizingAnimationsView.swift in Sources */,
+				E41F14C52CE21FCF008EEE75 /* AnimatedLettersView.swift in Sources */,
 				E4B881012CDD173100270BF9 /* ExplicitAnimationsView.swift in Sources */,
 				E4B880FF2CDD161E00270BF9 /* AnimatingBindingsView.swift in Sources */,
+				E41F14C32CE21E6E008EEE75 /* AnimatingGesturesView.swift in Sources */,
 				E41F14C12CE21C3E008EEE75 /* ControllingAnimationStackView.swift in Sources */,
 				E4B880EF2CDD0F5E00270BF9 /* ContentView.swift in Sources */,
 				E4B880ED2CDD0F5E00270BF9 /* AnimationsApp.swift in Sources */,
